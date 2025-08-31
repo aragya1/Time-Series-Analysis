@@ -22,5 +22,5 @@ This repository contains code for an in-depth time series analysis of Amazon's Q
    - Ensured model assumptions for accurate forecasting.
 
 3. **Performance Metrics:**
-   - Achieved a minimum RMSE (Root Mean Squared Error) of 828.30 with ARIMA.
-   - Achieved an RMSE of 1887.92 with Holt-Winters, demonstrating robust predictive performance.
+   - Achieved a minimum RMSE (Root Mean Squared Error) of $ 8.30 million with ARIMA.
+   - Achieved an RMSE of $ 18.87 million with Holt-Winters, demonstrating robust predictive performance.
